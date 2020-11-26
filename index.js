@@ -1,4 +1,2 @@
-const NautiljonScraper = require("./lib/nautiljonScraper");
-
-let nautiljonScraper = new NautiljonScraper();
-nautiljonScraper.search("one piece", "anime");
+exports.search = require("./lib/search");
+exports.getFromUrl = require("./lib/getFromUrl");
