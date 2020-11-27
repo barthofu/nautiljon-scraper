@@ -1,2 +1,6 @@
-exports.search = require("./lib/search");
-exports.getFromUrl = require("./lib/getFromUrl");
+module.exports = {
+
+    search: require("./lib/search"),
+    getFromUrl: require("./lib/getFromUrl")
+    
+}

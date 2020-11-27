@@ -1,13 +1,13 @@
 {
   "name": "nautiljon-scraper",
   "version": "1.0.0",
-  "description": "Nautiljon's anime and manga scraping tool",
-  "main": "./lib/index.js",
+  "description": "Nautiljon's anime and manga website scraping tool",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ./test/index.js",
     "start": "node index.js"
   },
   "repository": {
@@ -32,6 +32,8 @@
   },
   "homepage": "https://github.com/barthofu/nautiljon-scraper#readme",
   "dependencies": {
-    "puppeteer": "^5.5.0"
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   }
 }
