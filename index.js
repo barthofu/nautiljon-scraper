@@ -6,6 +6,6 @@ module.exports = {
 
     //unavailable methods
     getNews: () => { return "Not implemented yet."},
-    getAmvs: () => { return "Not implemented yet."}
+    getAMV: () => { return "Not implemented yet."}
     
 }
