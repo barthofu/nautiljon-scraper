@@ -187,13 +187,7 @@ nautiljonScraper.getInfoFromURL("https://www.nautiljon.com/animes/one+piece.html
     description: `Il fut un temps où Gold Roger était le plus grand de tous les pirates, le "Roi des Pirates" était son surnom. A sa mort, son trésor d'une valeur inestimable connu sous le nom de "One Piece" fut caché quelque part sur "Grand Line". De nombreux pirates sont partis à la recherche de ce trésor mais tous sont morts avant même de l'atteindre. Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau "Roi des Pirates". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !`,
     pictures: [
         'https://nautiljon.com/images/more/00/86/55868.jpg',
-        'https://nautiljon.com/images/more/00/96/55869.jpg',
-        'https://nautiljon.com/images/more/00/07/55870.jpg',
-        'https://nautiljon.com/images/more/00/17/55871.jpg',
-        'https://nautiljon.com/images/more/00/68/56286.jpg',
-        'https://nautiljon.com/images/more/00/78/56287.jpg',
-        'https://nautiljon.com/images/more/00/86/56468.jpg',
-        'https://nautiljon.com/images/more/00/27/56472.jpg'
+        //...
     ],
     trailer: 'https://www.youtube.com/embed/NjwWi1tLuY0?autoplay=1',
     episodes: {
