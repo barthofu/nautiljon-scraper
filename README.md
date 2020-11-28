@@ -1,4 +1,4 @@
-<h1 align="center">Nautiljon Scraper</h1>
+<h1 align="center" font-weight="bold">Nautiljon Scraper</h1>
 
 <p align="center">
     <a href="http://forthebadge.com/" target="_blank">
@@ -12,9 +12,7 @@
   </a>
 </p>
 
-An unofficial https://nautiljon.com anime and manga data scraper.
-
-------
+> #### An unofficial scraping tool for [Nautiljon](https://nautiljon.com), a french anime and manga data website.
 
 #### Table of content:
 
