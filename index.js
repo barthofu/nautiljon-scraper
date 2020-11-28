@@ -1,8 +1,11 @@
 module.exports = {
 
+    //available methods
     search: require("./lib/search"),
-    getFromUrl: require("./lib/getFromUrl"),
-    getNews: null,
-    getAmvs: null
+    getInfoFromURL: require("./lib/getInfoFromURL"),
+
+    //unavailable methods
+    getNews: () => { return "Not implemented yet."},
+    getAmvs: () => { return "Not implemented yet."}
     
 }
