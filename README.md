@@ -10,6 +10,9 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
   </a>
+  <img src="https://img.shields.io/npm/dt/nautiljon-scraper">
+  <img src="https://img.shields.io/tokei/lines/github/barthofu/nautiljon-scraper">
+  <img src="https://img.shields.io/npm/v/nautiljon-scraper">
 </p>
 
 > #### An unofficial scraping tool for [Nautiljon](https://nautiljon.com), a french anime and manga data website.
