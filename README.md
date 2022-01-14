@@ -20,7 +20,7 @@
 #### Table of content:
 
 * **[Installation](#installation)**
-* **[Use](#use)**
+* **[Usage](#usage)**
 * **[Methods](#methods)**
   * [search()](#search())
   * [getInfoFromURL()](#getInfoFromURL())
@@ -40,7 +40,7 @@
 npm install --save nautiljon-scraper
 ```
 
-## Use
+## Usage
 
 ```js
 const nautiljonScraper = require('nautiljon-scraper')
@@ -122,7 +122,7 @@ Usage exemple:
 nautiljonScraper.getInfoFromURL("https://www.nautiljon.com/animes/one+piece.html")
 ```
 
-###### *Returns: [Anime model](https://github.com/Kylart/MalScraper/blob/master/README.md#anime-search-model) or [Manga model](https://github.com/Kylart/MalScraper/blob/master/README.md#manga-search-model) object*
+###### *Returns: [Anime model](#anime) or [Manga model](#manga) object*
 
 ## Data models
 
