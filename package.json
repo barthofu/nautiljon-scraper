@@ -1,6 +1,6 @@
 {
   "name": "nautiljon-scraper",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Nautiljon's anime and manga website scraping tool",
   "main": "index.js",
   "directories": {
